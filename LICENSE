@@ -1,0 +1,26 @@
+Envy Public License (Version 2025)
+
+Copyright (C) 2022-2025 Envy Group, Envy Internal Services and Development
+
+By ("The License"), we are referring to the Envy Public License at the time of
+writing.
+
+By ("The Organization"), we are referring to Envy Group.
+
+By ("The Services"), we are referring to services and features created by Envy
+Internal Services and Development.
+
+By ("The Content"), we are referring to any code that is under The License.
+
+0. The Envy Public License allows for forking of the original code, as long as the 
+credit is given.
+
+1. For libraries and/or code (in source or binary) that *do not* go under
+The License, a copy of the library/code's License can apply, but only to that
+library/code, and not any other piece of Envy.
+
+2. If you decide to contribute to Envy, any code you write will be owned by The
+Organization
+
+3. The Content must be open sourced, if it was originally applied to The License
+or forked from a existing project that is under The License.
