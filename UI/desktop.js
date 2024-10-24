@@ -1,14 +1,14 @@
 var content = document.createElement("div");
 content.innerHTML = `
     <div class="taskbar">
-        <img src="/Assets/envy.svg" height="26px">
+        <img src="./Assets/envy.svg" height="26px">
         <div class="date">
             <div id="clock"></div>
             <div id="dateDisplay" style="font-size: 12.5px"></div>
         </div>
     </div>
     <h1>Test Desktop</h1>
-    <button onclick="loadScript('/Apps/example.js')">Launch Example App</button>
+    <button onclick="loadScript('./Apps/example.js')">Launch Example App</button>
     <span class="watermark">
         <p>This is an ALPHA rewrite. Expect bugs and instability. Build 1394</p>
     </span>
